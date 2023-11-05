@@ -1,0 +1,15 @@
+{
+    "name": "repro-renovate-nuget-windows-bug",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "main": "index.js",
+    "scripts": {
+        "renovate": "renovate --platform github"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "renovate": "37.45.0"
+    }
+}
